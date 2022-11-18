@@ -7,7 +7,7 @@
 
 ### Bike Sales Dashboard
 
-![](images/Screenshot_bike.png)
+![](images/screenshot_bike.png)
 
 
 ### Data Exploration, Profit&Loss, and Forecasting of NYSE
@@ -24,6 +24,7 @@ Data is Forecasted using Profit and Loss Statement Values and differnt case scen
 Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.
 
 ![](images/screenshot_chinbook.png)
+
 ### Data Cleaning of Nashville Housing Data Set
 
 Nashville housing data set is downloaded from the internet and the data is cleaned for analysis using SQL.

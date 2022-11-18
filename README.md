@@ -16,7 +16,7 @@ New York Stock Exchange data set is downloaded from the internet and data analys
 Profit and Loss Statement Values are Visualized when a company is chosen
 Data is Forecasted using Profit and Loss Statement Values and differnt case scenarios like worst, base and best.
 
-![](images/Screenshot_NYSE2.png)
+![](images/Screenshot2_NYSE.png)
 
 
 ### Data Exploration and Visualization in Excel of Chinbook Music

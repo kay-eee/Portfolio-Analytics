@@ -4,9 +4,10 @@
 
 ### Chinbook Data for Music
 
-Powerpoint
 
-Data Exploration of Chinbook Music
+### Data Exploration and Visualization in Excel of Chinbook Music
+
+Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.
 
 ### Bike Sales Dashboard
 
@@ -22,4 +23,4 @@ Nashville housing data set is downloaded from the internet and the data is clean
 
 ### Data Exploration of Covid19 Deaths
 
-Covid 19 deaths data set is downloaded from the internet and exploratory data analysis is done using SQL.
+Covid19 deaths data set is downloaded from the internet and exploratory data analysis is done using SQL.

@@ -1,11 +1,8 @@
 # PortfolioProjects-Analytics
 
-
-
-### Chinbook Data for Music
-
-
 ### Data Exploration and Visualization in Excel of Chinbook Music
+
+![](images/Screenshot_bike.png)
 
 Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.
 

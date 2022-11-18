@@ -49,4 +49,5 @@ Project File:https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8
 ### Data Exploration of Covid19 Deaths
 
 Covid19 deaths data set is downloaded from the internet and exploratory data analysis is done using SQL.
+
 Project File:https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Data%20Exploration%20of%20Covid-19%20DeathsAndVaccinations.sql

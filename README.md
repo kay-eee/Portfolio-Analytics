@@ -19,7 +19,6 @@ Data is Forecasted using Profit and Loss Statement Values and differnt case scen
 ![](images/Screenshot_NYSE2.png)
 
 
-
 ### Data Exploration and Visualization in Excel of Chinbook Music
 
 Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.

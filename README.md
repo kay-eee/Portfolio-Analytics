@@ -2,7 +2,8 @@
 
 ### Data Exploration and Visualization in Excel of Chinbook Music
 
-![](images/Screenshot_chinbook.png)
+![]images/screenshot_chinbook.png
+
 
 Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.
 

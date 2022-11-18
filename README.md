@@ -2,7 +2,7 @@
 
 ### Chocolate Sales Report
 
-![](images/screenshot_chocolate.png)
+![](images/Screenshot_chocolate.png)
 
 
 ### Bike Sales Dashboard

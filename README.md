@@ -25,6 +25,25 @@ Data is Forecasted using Profit and Loss Statement Values and differnt case scen
 Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Data%20Exploration%20&%20Forecasting%20of%20NYSE.xlsx
 
 
+### Data Visualisation of Global Superstore
+
+Global Superstore data set is downloaded from the internet and exploratory data analysis is done using Tableau.
+
+
+![](images/globalsuperstore_tableau.png)
+
+Project File Link:
+https://public.tableau.com/views/Global_superstore_16689875410660/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+### Dashboard of Asylum Seekers
+
+Asylum Seekers data set is downloaded from the internet and exploratory data analysis is done using Tableau.
+
+![](images/asylumseekers_tableau.png)
+
+
+Project File Link: https://public.tableau.com/views/AsylumSeekers_16690586074450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ### Data Exploration and Visualization in Excel of Chinbook Music
 
 Chinbook Music data set is downloaded from the internet and exploratory data analysis is done using SQL. The results were then exported to excel and visualisations have been created.

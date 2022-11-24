@@ -1,4 +1,4 @@
-# PortfolioProjects-Analytics
+# Portfolio-Analytics
 
 ### Chocolate Sales Report
 

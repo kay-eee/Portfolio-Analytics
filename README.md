@@ -25,6 +25,26 @@ Data is Forecasted using Profit and Loss Statement Values and differnt case scen
 Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Data%20Exploration%20&%20Forecasting%20of%20NYSE.xlsx
 
 
+### Dashboard of Flights in USA 2015
+
+Flights in USA 2015 data set is downloaded from the internet, data analysis is done using Tableau, and a dashboard is created.
+
+![](images/flightsinusa2015_tableau.png)
+
+
+Project File Link: https://public.tableau.com/views/FlightsinUSA2015_16691751426940/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+### Dashboard of Asylum Seekers
+
+Asylum Seekers data set is downloaded from the internet and exploratory data analysis is done using Tableau.
+
+![](images/asylumseekers_tableau.png)
+
+
+Project File Link: https://public.tableau.com/views/AsylumSeekers_16690586074450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ### Data Visualisation of Global Superstore
 
 Global Superstore data set is downloaded from the internet and exploratory data analysis is done using Tableau.
@@ -43,26 +63,7 @@ Movie Metadata set is downloaded from the internet and data analysis is done usi
 
 Project Link: https://public.tableau.com/views/MovieMetadata_16690336347870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-### Dashboard of Flights in USA 2015
 
-Flights in USA 2015 data set is downloaded from the internet, data analysis is done using Tableau, and a dashboard is created.
-
-![](images/flightsinusa2015_tableau.png)
-
-
-Project File Link: https://public.tableau.com/views/FlightsinUSA2015_16691751426940/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-
-
-
-### Dashboard of Asylum Seekers
-
-Asylum Seekers data set is downloaded from the internet and exploratory data analysis is done using Tableau.
-
-![](images/asylumseekers_tableau.png)
-
-
-Project File Link: https://public.tableau.com/views/AsylumSeekers_16690586074450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ### Data Exploration and Visualization in Excel of Chinbook Music
 

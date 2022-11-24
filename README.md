@@ -13,16 +13,14 @@ Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a
 Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Bike%20Sales%20Dashboard.xlsx
 
 
-### Data Exploration, Profit&Loss, and Forecasting of NYSE
 
-New York Stock Exchange data set is downloaded from the internet and data analysis is done using Excel
-Profit and Loss Statement Values are Visualized when a company is chosen
-Data is Forecasted using Profit and Loss Statement Values and differnt case scenarios like worst, base and best.
+### Movie Metadata
+Movie Metadata set is downloaded from the internet and data analysis is done using Tableau.
 
-![](images/Screenshot2_NYSE.png)
+![](images/moviemetadata_tableau.png)
 
 
-Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Data%20Exploration%20&%20Forecasting%20of%20NYSE.xlsx
+Project Link: https://public.tableau.com/views/MovieMetadata_16690336347870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 ### Dashboard of Flights in USA 2015
@@ -55,15 +53,18 @@ Global Superstore data set is downloaded from the internet and exploratory data 
 Project File Link:
 https://public.tableau.com/views/Global_superstore_16689875410660/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-### Movie Metadata
-Movie Metadata set is downloaded from the internet and data analysis is done using Tableau.
-
-![](images/moviemetadata_tableau.png)
 
 
-Project Link: https://public.tableau.com/views/MovieMetadata_16690336347870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+### Data Exploration, Profit&Loss, and Forecasting of NYSE
+
+New York Stock Exchange data set is downloaded from the internet and data analysis is done using Excel
+Profit and Loss Statement Values are Visualized when a company is chosen
+Data is Forecasted using Profit and Loss Statement Values and differnt case scenarios like worst, base and best.
+
+![](images/Screenshot2_NYSE.png)
 
 
+Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Data%20Exploration%20&%20Forecasting%20of%20NYSE.xlsx
 
 ### Data Exploration and Visualization in Excel of Chinbook Music
 

@@ -35,6 +35,26 @@ Global Superstore data set is downloaded from the internet and exploratory data 
 Project File Link:
 https://public.tableau.com/views/Global_superstore_16689875410660/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+### Movie Metadata
+Movie Metadata set is downloaded from the internet and data analysis is done using Tableau.
+
+![](images/moviemetadata_tableau.png)
+
+
+Project Link: https://public.tableau.com/views/MovieMetadata_16690336347870/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+### Dashboard of Flights in USA 2015
+
+Flights in USA 2015 data set is downloaded from the internet, data analysis is done using Tableau, and a dashboard is created.
+
+![](images/flightsinusa2015_tableau.png)
+
+
+Project File Link: https://public.tableau.com/views/FlightsinUSA2015_16691751426940/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+
 ### Dashboard of Asylum Seekers
 
 Asylum Seekers data set is downloaded from the internet and exploratory data analysis is done using Tableau.

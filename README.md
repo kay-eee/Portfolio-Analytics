@@ -1,5 +1,14 @@
 # Portfolio-Analytics
 
+
+### Data Profession Survey
+
+The Data Profession Survey dataset is downloaded from internet and analysis upon the data field professionals, their countries, programming languages, their salaries and their happiness using Power BI Tool.
+
+![](images/SurveyDataProfession.png)
+
+Project File :https://github.com/kay-eee/Portfolio-Analytics/blob/27c58d8969e1a144f836dc0bdc1133d0f9086a8a/SurveyDataProfession.pbix
+
 ### Chocolate Sales Report
 
 ![](images/Screenshot_chocolate.png)
@@ -15,6 +24,7 @@ Project File: https://github.com/kay-eee/Portfolio-Analytics/blob/23bb1d744e9d4e
 
 
 ### Movie Metadata
+
 Movie Metadata set is downloaded from the internet and data analysis is done using Tableau.
 
 ![](images/moviemetadata_tableau.png)

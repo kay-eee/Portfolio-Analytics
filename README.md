@@ -10,7 +10,7 @@ Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a
 
 ![](images/screenshot_bike.png)
 
-Project File: https://github.com/kay-eee/PortfolioProjects-Analytics/blob/70993a8586407736eb637e46dbaaa88f0206bb56/Bike%20Sales%20Dashboard.xlsx
+Project File: https://github.com/kay-eee/Portfolio-Analytics/blob/23bb1d744e9d4e8a55ceb9249e9a6f17e52d4402/Bike%20Sales%20Dashboard.xlsx
 
 
 

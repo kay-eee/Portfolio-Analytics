@@ -12,7 +12,7 @@ Project File: https://github.com/kay-eee/Portfolio-Analytics/blob/ff13890d812444
 
 ### Monthly Sales Dashboard
 
-The Data Profession Survey dataset is downloaded from internet and analysis upon what quantity of product is sold, discount and the profit made, product category, and top purchasing customers using Power BI Tool. The sales can be observed by selecting single month or various months from the filter and the trends can be seen.
+The Monthly Sales dataset is downloaded from internet and analysis upon what quantity of product is sold, discount and the profit made, product category, and top purchasing customers using Power BI Tool. The sales can be observed by selecting single month or various months from the filter and the trends can be seen.
 
 ![](images/MonthlySalesDB.png)
 

@@ -9,6 +9,16 @@ The Data Profession Survey dataset is downloaded from internet and analysis upon
 
 Project File: https://github.com/kay-eee/Portfolio-Analytics/blob/ff13890d8124442412946432907a252b6626633e/SurveyDataProfession.pbix
 
+
+### Monthly Sales Dashboard
+
+The Data Profession Survey dataset is downloaded from internet and analysis upon what quantity of product is sold, discount and the profit made, product category, and top purchasing customers using Power BI Tool. The sales can be observed by selecting single month or various months from the filter and the trends can be seen.
+
+![](images/MonthlySalesDB.png)
+
+Project File: https://github.com/kay-eee/Portfolio-Analytics/blob/9f0c08e8652cab3a296cda82dd5a62f26588986f/MonthlySalesDashboard.pbix
+
+
 ### Chocolate Sales Report
 
 ![](images/Screenshot_chocolate.png)
